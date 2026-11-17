@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 48" fill="none">
+  <g transform="translate(2, 4)">
+    <path d="M19 6C19 2.5 22.5 0 26.5 1.2C27.8 4.8 25.5 8.5 21.8 9.2C20.2 9.5 19 8.2 19 6Z" fill="#22993D" />
+    <path d="M12.5 8.5C9.5 6.5 5.5 8.2 5.2 11.8C7.8 14 11.8 13.5 13.8 11.2C14.6 10.3 14.1 9.5 12.5 8.5Z" fill="#63C74D" />
+    <path d="M3 13H8.5L12.5 29.5H31.5L35.5 17H11" stroke="#0F3D24" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" />
+    <circle cx="14.5" cy="35.5" r="2.6" fill="#0F3D24" />
+    <circle cx="29.5" cy="35.5" r="2.6" fill="#0F3D24" />
+  </g>
+  <text x="48" y="25" font-family="Plus Jakarta Sans, sans-serif" font-weight="800" font-size="21" fill="#0F3D24" letter-spacing="-0.4">Fresh<tspan fill="#22993D">Cart</tspan></text>
+  <text x="49" y="38" font-family="DM Sans, sans-serif" font-weight="500" font-size="10.5" fill="#4A6354">Good Food. Happier You.</text>
+</svg>

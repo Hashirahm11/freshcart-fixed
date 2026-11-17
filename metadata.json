@@ -1,0 +1,6 @@
+{
+  "name": "FreshCart — Modern Grocery E-Commerce Storefront",
+  "description": "Farm-fresh groceries delivered daily. Browse fresh fruits, vegetables, dairy, bakery, meat, and pantry staples with live deals and fast delivery in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
